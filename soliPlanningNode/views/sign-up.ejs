@@ -1,15 +1,16 @@
 <!DOCTYPE html>
-<html lang="nl">
+<html lang="en">
         <%- include('partials/head') %>
 <body>
         <%- include('partials/navbar') %>
-        <h1>Login</h1>
+        <h1>Aanmelden</h1>
         <form action="#">
             <label>Gebruikersnaam<input type="string" name="username" id=""></label>
+            <label>Email<input type="email" name="email" id=""></label>
             <label>Wachtwoord<input type="password" name="password" id=""></label>
         </form>
-        <button>Inloggen</button>
-        <a href="/sign-up">Aanmelden</a>
+        <button>Aanmelden</button>
+        <a href="/login">Inloggen</a>
         <%- include('partials/footer') %>
 </body>
 </html>
