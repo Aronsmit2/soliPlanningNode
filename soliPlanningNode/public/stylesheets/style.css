@@ -3,6 +3,18 @@ body {
   font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
 }
 
-a {
-  color: #00B7FF;
+/* Css navigation bar */
+nav a{
+  color: black;
+  text-decoration: none;
+}
+
+nav ul{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+
+nav ul li{
+  list-style: none;
 }
