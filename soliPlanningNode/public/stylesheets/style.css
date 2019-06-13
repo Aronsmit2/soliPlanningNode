@@ -18,3 +18,10 @@ nav ul{
 nav ul li{
   list-style: none;
 }
+
+/* Css footer bar */
+footer {
+  position:absolute;
+   bottom:0;
+   height:60px;   /* Height of the footer */
+}
