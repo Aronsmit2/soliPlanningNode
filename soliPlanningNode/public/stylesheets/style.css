@@ -10,6 +10,8 @@ nav a{
 }
 
 nav ul{
+  position: absolute;
+  bottom: 0;
   display: flex;
   flex-direction: row;
   justify-content: space-around;
