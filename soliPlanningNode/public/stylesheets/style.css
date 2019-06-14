@@ -34,10 +34,6 @@ form{
 }
 
 form label {
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  width: 25%;
   margin-left: auto;
   margin-right: auto;
 }
