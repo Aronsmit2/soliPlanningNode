@@ -3,6 +3,9 @@ body {
   font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
 }
 
+#logo {
+  width: 10px !important;
+}
 /* Css navigation bar */
 nav a{
   color: black;
