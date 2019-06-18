@@ -41,6 +41,34 @@ footer {
    height:60px;   /* Height of the footer */
 }
 
+/* css Homescreen */
+.datum-wrapper {
+  display: flex;
+  justify-content: space-around;
+  border-bottom: 0.5px solid grey;
+  padding: 10px;
+  margin-top: 10px;
+}
+
+.titel-concert {
+  padding: 0px;
+  margin: 0px;
+  font-size: 18px;
+}
+
+.datum-concert {
+  margin: 0px;
+  font-size: 13px;
+}
+
+.home-blokjes ul {
+  list-style: none;
+  display: flex;
+  justify-content: space-around;
+}
+.home-blokjes ul li {
+  list-style: none;
+}
 /* Css form (login/sign-up) */
 form{
   display: flex;
