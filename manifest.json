@@ -1,0 +1,16 @@
+{
+    "name": "Soli Planning app",
+    "short_name": "Soli Planning",
+    "description": "A webapp for planning concerts and activities.",
+    "icons": [
+        {
+            "src": "public/images/Soli_logo.png",
+            "sizes": "32x32",
+            "type": "image/png"
+        }
+    ],
+    "start_url": "/",
+    "display": "fullscreen",
+    "theme_color": "#FFF",
+    "background_color": "#FFF"
+}
