@@ -9,8 +9,6 @@
     "description" : "Een planning app om concerten en activiteiten te plannen.",
     "orientation" : "landscape",
     "background_color" : "transparent",
-    "related_applications" : "",
-    "prefer_related_applications" : "false",
     "generated" : "true",
     "icons" : [
         {
